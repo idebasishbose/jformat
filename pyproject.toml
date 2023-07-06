@@ -1,0 +1,15 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Debasish Bose", email = "devbose2008@gmail.com"},
+]
+dependencies = [
+    "click>=8.1.3",
+    "typer>=0.9.0",
+    "rich>=13.4.2",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
